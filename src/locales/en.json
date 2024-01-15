@@ -1,0 +1,29 @@
+{
+  "home": {
+    "listen": "Listen to Great Music!",
+    "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et dolor mollis, congue augue non, venenatis elit. Nunc justo eros, suscipit ac aliquet imperdiet, venenatis et sapien. Duis sed magna pulvinar, fringilla lorem eget, ullamcorper urna.",
+    "songs": "Songs"
+  },
+  "header": {
+    "music": "MUSIC",
+    "about": "About",
+    "manage": "Manage",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register"
+  },
+  "manage": {
+    "upload": "Upload",
+    "my_songs": "My Songs",
+    "drop_text": "Drop your files here",
+    "form": {
+      "title": "Song Title",
+      "genre": "Genre",
+      "back": "Go Back",
+      "submit": "Submit"
+    }
+  },
+  "song": {
+    "comment_count": "No Comment|1 Comment|{count} comments"
+  }
+}
